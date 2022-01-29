@@ -2,7 +2,7 @@ import '../../App.css';
 import {Link} from 'react-router-dom';
 import Logo from './img/Logo.png';
 
-function DesktopNavbar() {
+function Navbar() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light ml-3 mr-3 shadow mb-3">
@@ -44,4 +44,4 @@ function DesktopNavbar() {
   );
 }
 
-export default DesktopNavbar;
+export default Navbar;

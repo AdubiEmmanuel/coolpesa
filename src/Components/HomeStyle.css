@@ -38,3 +38,7 @@
     /* background-image:url('./img/woman-hand.svg'); */
     /* background-size:cover;
     background-repeat:no-repeat; */
+
+input['email']{
+    border:2px solid #138241;
+}
