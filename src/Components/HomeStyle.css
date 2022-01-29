@@ -1,0 +1,40 @@
+*{
+    font-family: 'Noto Sans JP','Noto Sans',;
+}
+
+.heading{
+    font-family: Noto Sans JP;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 169.19%;
+    /* or 108px */
+
+    letter-spacing: -0.025em;
+
+    color: rgba(4, 36, 17, 0.8);
+}
+
+.body-text{
+    font-family: Noto Sans JP;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 192.69%;
+    /* or 46px */
+
+
+    color: rgba(4, 36, 17, 0.6);
+}
+
+.back-img{
+    background-image:url('./img/Vector.svg');
+    /* background-image:url('./img/woman-hand.svg'); */
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+/* .div-2{
+    background-image:url('./img/woman-hand.svg');
+    /* background-image:url('./img/woman-hand.svg'); */
+    /* background-size:cover;
+    background-repeat:no-repeat; */
