@@ -33,22 +33,22 @@ export default function Home() {
                         </div>
                         </div>
                       </div>
+                    </section>          
+                    <section>
+                      <div className="container-fluid text-center bg-muted">
+                        <div className="wrapper py-5">
+                          <h1 className='display-4 text-bold text-success'>Our Aim</h1>
+                          <img src="" alt="././assets/underline.svg" />
+                          <p>We aim to reinvent the scope of individual development via incentivized connections garnered via interactive networking and enrich the lives of Africans both on the continent and in the diaspora.
+                            We are creating a blockchain-based social profit system that enables users to connect and express their creative potential.
+                            The collective community will promote and support individuals and organizations that proffer relevant solutions to rampant problems in African society.
+                            We believe that it will help foster a positive interdependency where everyone is his own man yet interwoven enough to offer support to others. </p>
+                          </div>
+                      </div>
                     </section>
-                  
-            
-            
-            <section>
-              <div className="container-fluid text-center bg-muted">
-                <div className="wrapper py-5">
-                  <h1 className='display-4 text-bold text-success'>Our Aim</h1>
-                  <img src="" alt="././assets/underline.svg" />
-                  <p>We aim to reinvent the scope of individual development via incentivized connections garnered via interactive networking and enrich the lives of Africans both on the continent and in the diaspora.
-                    We are creating a blockchain-based social profit system that enables users to connect and express their creative potential.
-                    The collective community will promote and support individuals and organizations that proffer relevant solutions to rampant problems in African society.
-                    We believe that it will help foster a positive interdependency where everyone is his own man yet interwoven enough to offer support to others. </p>
-                  </div>
-              </div>
-            </section>
+                    <section>
+                    
+                    </section>
             </div>
         </div>
 }
